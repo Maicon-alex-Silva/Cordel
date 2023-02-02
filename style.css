@@ -92,6 +92,7 @@ span {
     width: 280px;
     color: white;
     background-color: rgba(0, 0, 0, 0.418);
+    text-shadow: 1px 1px 0px black;
 }
 
 #bloco06 {
