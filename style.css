@@ -39,10 +39,6 @@ span {
     padding-left: 5px;
 }
 
-.img {
-    background-attachment: fixed;
-}
-
 #bloco01 {
     max-width: 100%;
     font-family: 'Sriracha', 'cursive';
